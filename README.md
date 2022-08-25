@@ -5,3 +5,5 @@ This website will include videos and related audio clips for each chapter.
 Expected release date: Mid-2023
 
 Edited by Richard Savery, [contact here](https://richardsavery.com/contact)
+
+![Listening Robots](soundandrobots5.png)
